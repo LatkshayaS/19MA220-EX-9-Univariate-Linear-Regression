@@ -1,5 +1,5 @@
 
-#EX -9- IMPLEMENTATION OF UNIVARIATE LINEAR RERESSION
+# EX-9-IMPLEMENTATION OF UNIVARIATE LINEAR RERESSION
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## EQUIPMENT REQUIRED:
